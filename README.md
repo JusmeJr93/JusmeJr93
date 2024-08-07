@@ -2,8 +2,8 @@
 
 ### React Frontend Developer
 
-I'm a passionate React Developer, with strong foundation <br>in problem-solving and critical thinking.<br>
-Committed to continuous learning and staying up-to-date <br>with the latest technology and design trends.<br>
+I'm a passionate React Developer, with strong foundation in problem-solving and critical thinking.<br>
+Committed to continuous learning and staying up-to-date with the latest technology and design trends.<br>
 Excellent team player with solid communication and collaboration skills.
 
 ---
