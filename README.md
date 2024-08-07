@@ -47,7 +47,7 @@ Excellent team player with solid communication and collaboration skills.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jusmejr93)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1196598049733091372)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:junior.jusme@gmail.com)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JusmeJr93)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=fff)](https://codepen.io/JusmeJr93)
 
 ---
 ### ✍️ Random Dev Quote
