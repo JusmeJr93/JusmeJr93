@@ -1,20 +1,10 @@
-# Hi there!!! I'm Junior Jusmé 👋
+# 👋 Hi there!!! 👋 I'm Junior Jusmé 👋
 
 ### React Frontend Developer
 
 I'm a passionate React Developer, with strong foundation in problem-solving and critical thinking.<br>
 Committed to continuous learning and staying up-to-date with the latest technology and design trends.<br>
 Excellent team player with solid communication and collaboration skills.
-
----
-
-## Sobre mí
-
-Ingeniero civil de formación, actualmente dedicado al desarrollo frontend. Siempre he tenido una fascinación por el mundo de la tecnología y la informática, por lo que empecé a programar como pasatiempo. Inmerso en el apasionante universo del desarrollo frontend, encontré mi verdadera vocación.
-
-Me empeño en fusionar mis habilidades técnicas con mi visión creativa, creando soluciones innovadoras en cada proyecto. Mi compromiso con el aprendizaje continuo me permite crecer tanto personal como profesionalmente.
-
-Ahora soy un constructor de experiencias digitales, emocionado de compartir mi viaje y contribuir al éxito de su equipo.
 
 ---
 
@@ -47,19 +37,8 @@ Ahora soy un constructor de experiencias digitales, emocionado de compartir mi v
 
 ---
 
-## Formación Académica
-
-Aunque los detalles completos de mi formación académica se encuentran en mi CV, aquí ofrezco una visión general de mi trayectoria educativa centrada en el desarrollo frontend para la creación de experiencias web atractivas, innovadoras y funcionales.
-
-- **What is Programming** - Udacity
-- **HTML5 and CSS Fundamentals** - W3C (edX)
-- **Responsive Web Design Certification** - freeCodeCamp
-- **JavaScript Introduction** - W3C (edX)
-- **JavaScript Essentials 1&3** - Cisco Networking Academy
-- **JavaScript and the DOM** - Udacity
-- **Object-Oriented JavaScript** - Udacity
-- **Version Control with Git** - Udacity
-- **Formación Frontend con React** - Alura Latam
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JusmeJr93&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -69,4 +48,9 @@ Aunque los detalles completos de mi formación académica se encuentran en mi CV
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1196598049733091372)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:junior.jusme@gmail.com)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JusmeJr93)
+
+---
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
